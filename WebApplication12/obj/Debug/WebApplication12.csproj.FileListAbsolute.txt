@@ -75,6 +75,6 @@ C:\Users\rosha\Desktop\Learning\MyApp\WebApplication12\WebApplication12\bin\ko\S
 C:\Users\rosha\Desktop\Learning\MyApp\WebApplication12\WebApplication12\bin\ru\System.Spatial.resources.dll
 C:\Users\rosha\Desktop\Learning\MyApp\WebApplication12\WebApplication12\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\rosha\Desktop\Learning\MyApp\WebApplication12\WebApplication12\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rosha\Desktop\Learning\MyApp\WebApplication12\WebApplication12\obj\Debug\WebApplication12.csprojResolveAssemblyReference.cache
 C:\Users\rosha\Desktop\Learning\MyApp\WebApplication12\WebApplication12\obj\Debug\WebApplication12.dll
 C:\Users\rosha\Desktop\Learning\MyApp\WebApplication12\WebApplication12\obj\Debug\WebApplication12.pdb
-C:\Users\rosha\Desktop\Learning\MyApp\WebApplication12\WebApplication12\obj\Debug\WebApplication12.csprojResolveAssemblyReference.cache
